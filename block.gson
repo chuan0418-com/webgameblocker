@@ -1,0 +1,16 @@
+{
+	"createBy": "http://liujiacai.net/gooreplacer/",
+	"createAt": "Wed Dec 05 2018 21:53:22 GMT+0800 (China Standard Time)",
+	"rules": {
+		"moomoo.io": {
+			"dstURL": "webgameblocker.ddns.net",
+			"kind": "wildcard",
+			"enable": true
+		}, 
+		"sploop.io": {
+			"dstURL": "webgameblocker.ddns.net",
+			"kind": "wildcard",
+			"enable": true
+		}
+	}
+}
